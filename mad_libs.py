@@ -1,5 +1,0 @@
-adjective = input("Give me an adjective:")
-food = input("Give me a food:")
-number = input("Give me a number:")
-country = input("Give me the name of a country:")
-print(f"The {adjective} chef from {country} cooked {number} plates of {food} before lunch!")
